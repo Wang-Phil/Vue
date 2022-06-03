@@ -1,4 +1,4 @@
-# hello-world
+# vue的简单应用，主要是flask和vue的前后端交互
 
 ## Project setup
 ```
